@@ -5,7 +5,7 @@ title: Week 14
 Dec 7
 : **lecture**{: .label .label-blue} [Network Programming I](/ICS-Fall26/assets/lec/22-network.pdf)
   : **read**{: .label .label-green} Ch11.1 - Ch11.3
-: **discussion and homework**{: .label .label-blue}
+: **discussion and homework**{: .label .label-yellow}
 
 Dec 9
 : **seminar**{: .label .label-purple}

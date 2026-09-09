@@ -12,4 +12,4 @@ Oct 14
 Oct 15
 : **lecture**{: .label .label-blue} [Processor Arch:ISA&Logic](/ICS-Fall26/assets/lec/09-Processor Arch-ISA&Logic.pdf)
   : **read**{: .label .label-green} Ch4.1 - Ch4.2
-: **discussion and homework**{: .label .label-blue}
+: **discussion and homework**{: .label .label-yellow}

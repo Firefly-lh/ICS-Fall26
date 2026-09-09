@@ -5,7 +5,7 @@ title: Week 2
 Sep 14
 : **lecture**{: .label .label-blue} [Floating Point](/ICS-Fall26/assets/lec/03-float.pdf)
   : **read**{: .label .label-green} Ch2.4
-: **discussion and homework**{: .label .label-blue}
+: **discussion and homework**{: .label .label-yellow}
 
 Sep 16
 : **seminar**{: .label .label-purple}
@@ -14,4 +14,4 @@ Sep 16
 Sep 17
 : **lecture**{: .label .label-blue} [Machine Prog: Basics](/ICS-Fall26/assets/lec/04-machine-basics.pdf)
   : **read**{: .label .label-green} Ch3.1 - Ch3.5
-: **discussion and homework**{: .label .label-blue}
+: **discussion and homework**{: .label .label-yellow}
