@@ -1,0 +1,63 @@
+title: ICS Seminar
+tagline: Seminar on ICS (Class 9) 
+description: Course Website for ICS Seminar
+author: Firefly
+baseurl: '/ICS-Fall26'
+url: 'https://Firefly-lh.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.9.0
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+footer_content:
+aux_links:
+  "Repository on GitHub":
+  - "https://github.com/Firefly-lh/ICS-Fall25"
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+  
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      height: 300
+      subpath: '/assets/images/'
+      width: 300
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+liquid:
+  error_mode: strict
+  strict_filters: true
