@@ -18,9 +18,9 @@ by Randal E. Bryant and David R. O’Hallaron, [Chinese Version](/ICS-Fall26/ass
 
 This [repository](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU) is created by TA **Arthals**. It contains a large amount of supplementary materials and methodologies for learning ICS, and [here](https://slide.huh.moe/) are the seminar slides he used when serving as a TA last semester. You can also read his [blogs](https://arthals.ink/) for some lab advice , but **DONT COPY HIS CODE**.
 
-This [repository](https://github.com/vwOvOwv/2024-Fall-ICS-TA) is created by another TA.
+This [repository](https://github.com/vwOvOwv/ICS-2025-Fall-TA) is created by another TA.
 
-This [website](https://www.sunvapor.site/about) contains high-quality ICS notes. (written by **SunVapor**)
+This [website](https://deluxe-hill-ff9.notion.site/321820231039802b90f7ff4c655e470d?v=32182023103980608854000c411e71e5) contains high-quality ICS notes. (written by **SunVapor**)
 
 This [website](https://dreamanddead.github.io/CSAPP-3e-Solutions/) contains reference answers to the exercises after class in the textbook.
 
@@ -44,6 +44,7 @@ This [document](/ICS-Fall26/assets/pipeline.pdf) is a summary of pipeline.
 
 | Term  |                                                                           Midterm                                                                            |                                              Final                                              |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| fa25  | [pdf1](/ICS-Fall26/assets/exam/pdf/2025阶段测试1.pdf) [sol1](/ICS-Fall26/assets/exam/sol/2025阶段测试1.pdf) [pdf2](/ICS-Fall26/assets/exam/pdf/2025阶段测试2.pdf) [sol2](/ICS-Fall26/assets/exam/pdf/2025阶段测试2.pdf) [pdf3](/ICS-Fall26/assets/exam/pdf/2025Lab测试.pdf) | [pdf](/ICS-Fall26/assets/exam/pdf/2025期末.pdf) [sol](/ICS-Fall26/assets/exam/sol/2025期末.pdf) |
 | fa24  | [pdf](/ICS-Fall26/assets/exam/pdf/2024期中.pdf) [sol](/ICS-Fall26/assets/exam/sol/2024期中.pdf) [corrections](/ICS-Fall26/assets/exam/sol/2024期中-勘误.pdf) | [pdf](/ICS-Fall26/assets/exam/pdf/2024期末.pdf) [sol](/ICS-Fall26/assets/exam/sol/2024期末.pdf) |
 | fa23  |                               [pdf](/ICS-Fall26/assets/exam/pdf/2023期中.pdf) [sol](/ICS-Fall26/assets/exam/sol/2023期中.pdf)                                |                                                                                                 |
 | fa22  |                               [pdf](/ICS-Fall26/assets/exam/pdf/2022期中.pdf) [sol](/ICS-Fall26/assets/exam/sol/2022期中.pdf)                                | [pdf](/ICS-Fall26/assets/exam/pdf/2022期末.pdf) [sol](/ICS-Fall26/assets/exam/sol/2022期末.pdf) |
