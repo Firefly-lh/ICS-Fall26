@@ -6,6 +6,7 @@ Sep 14
 : **lecture**{: .label .label-blue} [Floating Point](/ICS-Fall26/assets/lec/03-float.pdf)
   : **read**{: .label .label-green} Ch2.4
 : **discussion and homework**{: .label .label-yellow}
+: **data lab out**{: .label .label-purple} [pdf](/ICS-Fall26/assets/new_lab/datalab.pdf) / [handout](/ICS-Fall26/assets/new_lab/datalab-handout.tar)
 
 Sep 16
 : **seminar**{: .label .label-purple}
