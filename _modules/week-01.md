@@ -9,5 +9,5 @@ Sep 7
 Sep 10
 : **lecture**{: .label .label-blue} [Bits and Bytes/Integars](/ICS-Fall26/assets/lec/02-bits-bytes-ints.pdf)
   : **read**{: .label .label-green} Ch2.1 - Ch2.3
-: **discussion and homework**{: .label .label-yellow}
+: **discussion and homework**{: .label .label-yellow} [pdf](/ICS-Fall26/assets/discussion/02.pdf)
 
