@@ -9,8 +9,7 @@ Sep 14
 : **data lab out**{: .label .label-purple} [pdf](/ICS-Fall26/assets/new_lab/datalab.pdf) / [handout](/ICS-Fall26/assets/new_lab/datalab-handout.tar)
 
 Sep 16
-: **seminar**{: .label .label-purple}
-  : **discussion**{: .label .label-yellow}
+: **seminar**{: .label .label-purple} [TA1](https://firefly-lh.github.io/ICS-Fall26-Slides/00-Intro)
 
 Sep 17
 : **lecture**{: .label .label-blue} [Machine Prog: Basics](/ICS-Fall26/assets/lec/04-machine-basics.pdf)
