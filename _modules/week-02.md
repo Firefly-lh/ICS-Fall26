@@ -6,10 +6,10 @@ Sep 14
 : **lecture**{: .label .label-blue} [Floating Point](/ICS-Fall26/assets/lec/03-float.pdf)
   : **read**{: .label .label-green} Ch2.4
 : **discussion and homework**{: .label .label-yellow} [pdf](/ICS-Fall26/assets/discussion/03.pdf)
-: **data lab out**{: .label .label-purple} [pdf](/ICS-Fall26/assets/new_lab/datalab.pdf) / [handout](/ICS-Fall26/assets/new_lab/datalab-handout.tar)
+: **data lab out**{: .label .label-purple} [pdf](/ICS-Fall26/assets/new_lab/datalab.pdf) [handout](/ICS-Fall26/assets/new_lab/datalab-handout.tar)
 
 Sep 16
-: **seminar**{: .label .label-purple} [TA1](https://firefly-lh.github.io/ICS-Fall26-Slides/00-Intro)
+: **seminar**{: .label .label-purple} [TA1](https://firefly-lh.github.io/ICS-Fall26-Slides/00-Intro) [TA2](https://firefly-lh.github.io/ICS-Fall26-Slides/01-Data) [xLab](/ICS-Fall26/assets/xLab.pptx)
 
 Sep 17
 : **lecture**{: .label .label-blue} [Machine Prog: Basics](/ICS-Fall26/assets/lec/04-machine-basics.pdf)
