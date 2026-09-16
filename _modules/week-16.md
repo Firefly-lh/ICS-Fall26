@@ -3,9 +3,9 @@ title: Week 16
 ---
 
 Dec 21
-: **lecture**{: .label .label-blue} [Synchronization: Basic](/ICS-Fall25/assets/lec/25-SYNC1.pdf)
+: **lecture**{: .label .label-blue} [Synchronization: Advanced](/ICS-Fall25/assets/lec/26-SYNC2.pdf)
   : **read**{: .label .label-green} Ch12.4
-: **discussion and homework**{: .label .label-yellow} [pdf](/ICS-Fall25/assets/discussion/24-26.pdf)
+: **discussion and homework**{: .label .label-yellow}
 
 Dec 23
 : **seminar**{: .label .label-purple}
