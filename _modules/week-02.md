@@ -14,4 +14,4 @@ Sep 16
 Sep 17
 : **lecture**{: .label .label-blue} [Machine Prog: Basics](/ICS-Fall26/assets/lec/04-machine-basics.pdf)
   : **read**{: .label .label-green} Ch3.1 - Ch3.5
-: **discussion and homework**{: .label .label-yellow}
+: **discussion and homework**{: .label .label-yellow} [pdf](/ICS-Fall26/assets/discussion/04.pdf)
