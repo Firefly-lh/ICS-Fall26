@@ -10,7 +10,7 @@ Sep 21
 
 Sep 23
 : **seminar**{: .label .label-purple} [TA](https://firefly-lh.github.io/ICS-Fall26-Slides/02-Machine_Prog_1)
-  : **discussion**{: .label .label-yellow} [3-1](/ICS-Fall25/assets/stu_ppts/3-1_袁方涵.pptx) [3-2](/ICS-Fall25/assets/stu_ppts/3-2_徐恺.pptx)
+  : **discussion**{: .label .label-yellow} [3-1](/ICS-Fall26/assets/stu_ppts/3-1_袁方涵.pptx) [3-2](/ICS-Fall26/assets/stu_ppts/3-2_徐恺.pptx)
 
 Sep 24
 : **lecture**{: .label .label-blue}[Machine Prog: Procedures](/ICS-Fall26/assets/lec/06-machine-procedures.pdf)
