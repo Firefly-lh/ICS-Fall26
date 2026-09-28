@@ -4,6 +4,7 @@ title: Week 6
 
 Oct 12
 : **exam1**{: .label .label-red}
+: **bomb lab due**{: .label .label-red}
 
 Oct 14
 : **seminar**{: .label .label-purple}

@@ -15,4 +15,4 @@ Sep 23
 Sep 24
 : **lecture**{: .label .label-blue}[Machine Prog: Procedures](/ICS-Fall26/assets/lec/06-machine-procedures.pdf)
   : **read**{: .label .label-green} Ch3.7
-: **discussion and homework**{: .label .label-yellow}
+: **discussion and homework**{: .label .label-yellow} [pdf](/ICS-Fall26/assets/discussion/06.pdf)
