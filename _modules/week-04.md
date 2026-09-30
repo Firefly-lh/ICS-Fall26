@@ -9,5 +9,5 @@ Sep 28
 : **data lab due**{: .label .label-red}
 
 Sep 30
-: **seminar**{: .label .label-purple}
-  : **discussion**{: .label .label-yellow}
+: **seminar**{: .label .label-purple} [TA](https://firefly-lh.github.io/ICS-Fall26-Slides/03-Machine_Prog_2)
+  : **discussion**{: .label .label-yellow} [4-1](/ICS-Fall26/assets/stu_ppts/4-1_邓庭宇.pptx) [3-2](/ICS-Fall26/assets/stu_ppts/4-2_方心童.pptx)
