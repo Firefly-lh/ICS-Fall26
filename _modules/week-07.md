@@ -5,7 +5,7 @@ title: Week 7
 Oct 19
 : **lecture**{: .label .label-blue} [Processor Arch: Sequential](/ICS-Fall26/assets/lec/10-Processor Arch-Sequential.pdf)
   : **read**{: .label .label-green} Ch4.3
-: **discussion and homework**{: .label .label-yellow}
+: **discussion and homework**{: .label .label-yellow} [pdf](/ICS-Fall26/assets/discussion/10.pdf)
 : **arch lab out**{: .label .label-purple}
 
 Oct 21
