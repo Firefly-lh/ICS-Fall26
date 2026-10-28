@@ -15,5 +15,5 @@ Oct 21
 Oct 22
 : **lecture**{: .label .label-blue} [Processor Arch: Pipelined](/ICS-Fall26/assets/lec/11-Processor Arch-Pipelined.pdf)
   : **read**{: .label .label-green} Ch4.4 - Ch4.5
-: **discussion and homework**{: .label .label-yellow}
+: **discussion and homework**{: .label .label-yellow} [pdf](/ICS-Fall26/assets/discussion/11.pdf)
 : **attack lab due**{: .label .label-red}
