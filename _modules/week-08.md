@@ -14,5 +14,5 @@ Oct 28
 Oct 29
 : **lecture**{: .label .label-blue} [Cache Memories](/ICS-Fall26/assets/lec/13-cache-memories.pdf)
   : **read**{: .label .label-green} Ch6.4 - Ch6.6
-: **discussion and homework**{: .label .label-yellow}
-: **cache lab out**{: .label .label-purple}
+: **discussion and homework**{: .label .label-yellow} [pdf](/ICS-Fall26/assets/discussion/13.pdf)
+: **cache lab out**{: .label .label-purple} [pdf](/ICS-Fall26/assets/new_lab/cachelab.pdf) [handout](/ICS-Fall26/assets/new_lab/cachelab-handout.tar)
