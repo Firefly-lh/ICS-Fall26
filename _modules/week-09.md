@@ -9,8 +9,8 @@ Nov 2
 : **arch lab due**{: .label .label-red}
 
 Nov 4
-: **seminar**{: .label .label-purple}
-  : **discussion**{: .label .label-yellow}
+: **seminar**{: .label .label-purple} [TA](https://firefly-lh.github.io/ICS-Fall26-Slides/06-Cache)
+  : **discussion**{: .label .label-yellow} [9-1](/ICS-Fall26/assets/stu_ppts/9-1_邓庭宇.pptx) [9-2](/ICS-Fall26/assets/stu_ppts/9-2_汪苏轶.pptx)
 
 Nov 5
 : **lecture**{: .label .label-blue} [Linking](/ICS-Fall26/assets/lec/15-linking.pdf)
