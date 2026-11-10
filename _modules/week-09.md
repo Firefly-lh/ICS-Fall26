@@ -15,4 +15,4 @@ Nov 4
 Nov 5
 : **lecture**{: .label .label-blue} [Linking](/ICS-Fall26/assets/lec/15-linking.pdf)
   : **read**{: .label .label-green} Ch7.1 - Ch7.14
-: **discussion and homework**{: .label .label-yellow}
+: **discussion and homework**{: .label .label-yellow} [pdf](/ICS-Fall26/assets/discussion/15.pdf)
