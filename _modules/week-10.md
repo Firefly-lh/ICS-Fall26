@@ -9,7 +9,7 @@ Nov 9
 : **tsh lab out**{: .label .label-purple} [pdf](/ICS-Fall26/assets/new_lab/tshlab.pdf) [handout](/ICS-Fall26/assets/new_lab/tshlab-handout.tar)
 
 Nov 11
-: **seminar**{: .label .label-purple}  [TA](https://firefly-lh.github.io/ICS-Fall26-Slides/07-Cache)
+: **seminar**{: .label .label-purple}  [TA](https://firefly-lh.github.io/ICS-Fall26-Slides/07-Linking_ECF_1)
   : **discussion**{: .label .label-yellow} [10-1](/ICS-Fall26/assets/stu_ppts/10-1_徐勤.pptx) [10-2](/ICS-Fall26/assets/stu_ppts/10-2_袁方涵.pptx)
 
 Nov 12
