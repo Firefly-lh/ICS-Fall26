@@ -13,6 +13,6 @@ Nov 11
   : **discussion**{: .label .label-yellow} [10-1](/ICS-Fall26/assets/stu_ppts/10-1_徐勤.pptx) [10-2](/ICS-Fall26/assets/stu_ppts/10-2_袁方涵.pptx)
 
 Nov 12
-: **lecture**{: .label .label-blue} [ECF: Signals & Nonlocal Jumps](/ICS-Fall25/assets/lec/17-ECF2.pdf)
+: **lecture**{: .label .label-blue} [ECF: Signals & Nonlocal Jumps](/ICS-Fall26/assets/lec/17-ECF2.pdf)
   : **read**{: .label .label-green} Ch8.5 - Ch8.7
 : **cache lab due**{: .label .label-red}
