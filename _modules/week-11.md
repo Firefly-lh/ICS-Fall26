@@ -12,4 +12,4 @@ Nov 18
 Nov 19
 : **lecture**{: .label .label-blue} [System Level I/O](/ICS-Fall26/assets/lec/18-SysIO.pdf)
   : **read**{: .label .label-green} Ch10
-: **discussion and homework**{: .label .label-yellow}
+: **discussion and homework**{: .label .label-yellow} [pdf](/ICS-Fall26/assets/discussion/18.pdf)
